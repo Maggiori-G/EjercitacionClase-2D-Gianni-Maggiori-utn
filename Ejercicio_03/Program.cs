@@ -16,18 +16,18 @@ namespace Ejercicio_03 {
 			string continuar="";
 			int contadorDeModulo=0;
 			do {
-				Console.WriteLine(("Ingrese un numero"));
+				Console.WriteLine("Ingrese un numero");
 				if(double.TryParse(Console.ReadLine(),out numeroIngresado)) {
 					if(numeroIngresado>0) {
 						while(numeroParaMostrar<numeroIngresado) {
-						for(int i = 0;i<=numeroIngresado;i++) {
-							if(numeroParaMostrar%i==0) {
-								contadorDeModulo++;
+							for(int i = 0;i<=numeroIngresado;i++) {
+								if(numeroParaMostrar%i==0) {
+									contadorDeModulo++;
+								}
+								if(contadorDeModulo>2) {
+									break;
+								}
 							}
-							if(contadorDeModulo>2) {
-								break;
-							}
-						}
 						if(contadorDeModulo==2) {
 							Console.WriteLine($"{numeroParaMostrar} ES PRIMO");
 						}

@@ -4,12 +4,12 @@ using System.Collections.Generic;
 namespace Ejercicio_04 {
 	internal class Program {
 		static void Main(string[] args) {
-			int contadorNumerosPerfectos=0;
-			int numeroParaCalcular=2;
-			int acumuladorDeModulos=0;
+			double contadorNumerosPerfectos=0;
+			double numeroParaCalcular=2;
+			double acumuladorDeModulos=0;
 			List <double> listaNumerosPerfectos=new List<double>();
 
-			while(contadorNumerosPerfectos<4) {
+			while(contadorNumerosPerfectos<5) {
 				for(int i = 1;i<numeroParaCalcular;i++) {
 					if(numeroParaCalcular%i==0) {
 						acumuladorDeModulos+=i;
