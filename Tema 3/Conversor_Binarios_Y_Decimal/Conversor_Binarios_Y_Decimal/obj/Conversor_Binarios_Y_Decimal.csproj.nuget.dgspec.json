@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Clases y metodos estaticos\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal.csproj": {}
+    "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 3\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Clases y metodos estaticos\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal.csproj": {
+    "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 3\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Clases y metodos estaticos\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal.csproj",
+        "projectUniqueName": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 3\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal.csproj",
         "projectName": "Conversor_Binarios_Y_Decimal",
-        "projectPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Clases y metodos estaticos\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal.csproj",
+        "projectPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 3\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal.csproj",
         "packagesPath": "C:\\Users\\tanii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Clases y metodos estaticos\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal\\obj\\",
+        "outputPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 3\\Conversor_Binarios_Y_Decimal\\Conversor_Binarios_Y_Decimal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

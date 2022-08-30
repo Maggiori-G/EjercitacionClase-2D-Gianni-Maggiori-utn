@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Introduccion a .NET y C#\\Error_Al_Cubo\\Error_Al_Cubo\\Error_Al_Cubo.csproj": {}
+    "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 1\\Error_Al_Cubo\\Error_Al_Cubo\\Error_Al_Cubo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Introduccion a .NET y C#\\Error_Al_Cubo\\Error_Al_Cubo\\Error_Al_Cubo.csproj": {
+    "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 1\\Error_Al_Cubo\\Error_Al_Cubo\\Error_Al_Cubo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Introduccion a .NET y C#\\Error_Al_Cubo\\Error_Al_Cubo\\Error_Al_Cubo.csproj",
+        "projectUniqueName": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 1\\Error_Al_Cubo\\Error_Al_Cubo\\Error_Al_Cubo.csproj",
         "projectName": "Error_Al_Cubo",
-        "projectPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Introduccion a .NET y C#\\Error_Al_Cubo\\Error_Al_Cubo\\Error_Al_Cubo.csproj",
+        "projectPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 1\\Error_Al_Cubo\\Error_Al_Cubo\\Error_Al_Cubo.csproj",
         "packagesPath": "C:\\Users\\tanii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Introduccion a .NET y C#\\Error_Al_Cubo\\Error_Al_Cubo\\obj\\",
+        "outputPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 1\\Error_Al_Cubo\\Error_Al_Cubo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

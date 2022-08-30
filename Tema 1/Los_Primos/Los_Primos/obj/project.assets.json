@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Introduccion a .NET y C#\\Los_Primos\\Los_Primos\\Los_Primos.csproj",
+      "projectUniqueName": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 1\\Los_Primos\\Los_Primos\\Los_Primos.csproj",
       "projectName": "Los_Primos",
-      "projectPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Introduccion a .NET y C#\\Los_Primos\\Los_Primos\\Los_Primos.csproj",
+      "projectPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 1\\Los_Primos\\Los_Primos\\Los_Primos.csproj",
       "packagesPath": "C:\\Users\\tanii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Introduccion a .NET y C#\\Los_Primos\\Los_Primos\\obj\\",
+      "outputPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 1\\Los_Primos\\Los_Primos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

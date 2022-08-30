@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Clases y metodos estaticos\\Validador_de_Rango\\Validador_de_Rango\\Validador_de_Rango.csproj",
+      "projectUniqueName": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 3\\Validador_de_Rango\\Validador_de_Rango\\Validador_de_Rango.csproj",
       "projectName": "Validador_de_Rango",
-      "projectPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Clases y metodos estaticos\\Validador_de_Rango\\Validador_de_Rango\\Validador_de_Rango.csproj",
+      "projectPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 3\\Validador_de_Rango\\Validador_de_Rango\\Validador_de_Rango.csproj",
       "packagesPath": "C:\\Users\\tanii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Maggiori-Gianni\\Clases y metodos estaticos\\Validador_de_Rango\\Validador_de_Rango\\obj\\",
+      "outputPath": "C:\\Users\\tanii\\Desktop\\repo de git clases 2d\\EjercitacionClase-2D-Gianni-Maggiori-utn\\Tema 3\\Validador_de_Rango\\Validador_de_Rango\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
