@@ -6,6 +6,7 @@
 			double acumuladorDeModulos=0;
 			List <double> listaNumerosPerfectos=new List<double>();
 
+
 			while(contadorNumerosPerfectos<4) {
 				for(int i = 1;i<numeroParaCalcular;i++) {
 					if(numeroParaCalcular%i==0) {
