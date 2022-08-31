@@ -60,7 +60,7 @@ namespace Entidades
                 return 2; 
             }
         }
-        public string AlumnoEncapsulado(string nombre, string apellido, string legajo) {
+        public string MostrarDatosAlumno(string nombre, string apellido, string legajo) {
             string retorno=null;
             if(nombre is not null && apellido is not null && legajo is not null) {
                 StringBuilder sb = new StringBuilder();
@@ -70,6 +70,16 @@ namespace Entidades
                 retorno = sb.ToString();
             }
             return retorno;
+        }
+        public void TomarExamen(int parcial, int nota) {
+            if(parcial==1) {
+                this.PrimerNota=nota;
+            }
+            else {
+                if(parcial==2) {
+                    this.SegundaNota=nota;
+                }
+            }
         }
     }
 }

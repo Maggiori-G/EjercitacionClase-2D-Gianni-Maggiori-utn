@@ -45,6 +45,16 @@ namespace AhorcadoNetCore
             }
             return posicion;
         }
+        public static int BuscarIndice(string[] arrayPalabras, string palabraParaBuscar) {
+             int indice=-1;
+            for(int i = 0;i<arrayPalabras.Length;i++) {
+                if(arrayPalabras[i]==palabraParaBuscar.ToUpper()) {
+                    indice=i;
+                    break;
+                }
+            }
+            return indice;
+        }
         public static bool ValidarSiExistePalabra(string palabra) {
             return !string.IsNullOrEmpty(palabra);
         }
@@ -128,9 +138,7 @@ namespace AhorcadoNetCore
             Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write(msj);
-            Console.WriteLine();
-
-
+            //Console.WriteLine();
         }
 
 

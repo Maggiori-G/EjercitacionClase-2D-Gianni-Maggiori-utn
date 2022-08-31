@@ -209,19 +209,28 @@ namespace AhorcadoNetCore
                     Console.WriteLine($"{indice++}: {palabra}");
                 }
             }
-            Console.ReadKey();
+            Funciones.PresioneUnaTeclaParaContinuar();
         }
 
         public static void EliminarPalabra()  //desarrollar
         {
             string palabraParaBorrar;
+            string[] auxiliar=new string[arrayPalabras.Length];
+            int contador=0;
             MostrarPalabras();
             Console.WriteLine("Ingrese la palabra que desea borrar del juego");
-            palabraParaBorrar = Console.ReadLine();
+            palabraParaBorrar = Console.ReadLine().ToUpper().Trim();
             if(Funciones.ValidarSiPalabraExisteEnLaLista(arrayPalabras,palabraParaBorrar)) {
-                arrayPalabras.
+                int indice=Funciones.BuscarIndice(arrayPalabras,palabraParaBorrar);
+                //arrayPalabras=arrayPalabras.Where((zapallo,pepito)=>pepito!=indice).ToArray();
+                for(int i = 0;i<arrayPalabras.Length;i++) {
+                    if(i!=indice) {
+                        auxiliar[contador]=arrayPalabras[i];
+                        contador++;
+                    }
+                }
+                arrayPalabras=auxiliar;
             }
-
         }
     }
 }
