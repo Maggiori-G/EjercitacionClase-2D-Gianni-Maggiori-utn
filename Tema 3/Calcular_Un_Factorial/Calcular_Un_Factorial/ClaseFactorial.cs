@@ -8,17 +8,13 @@ namespace Calcular_Un_Factorial {
 	public static class ClaseFactorial {
 
 		public static double CalcularFactorial(double numeroRecibido) {
-
-			double factorial=0;
-				
-			if(numeroRecibido > 0) {
-				factorial=factorial*CalcularFactorial(factorial-1);
-
+			if(numeroRecibido > 1) {
+				numeroRecibido=numeroRecibido*CalcularFactorial(numeroRecibido-1);
 			}
 			else {
-				factorial=1;
+				numeroRecibido=1;
 			}
-			return factorial;
+			return numeroRecibido;
 		}
 	}
 }
