@@ -53,6 +53,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TorneoFutbol", "Torneo\Torn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TorneoBasket", "Torneo\TorneoBasket\TorneoBasket.csproj", "{4AA0782C-895B-425E-B480-E3FA5E4E936D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Concesionaria", "Concesionaria", "{DDF159CF-4EF9-48D0-8323-1C33D9C7D138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadConcesionaria", "Concesionaria\EntidadConcesionaria\EntidadConcesionaria.csproj", "{D09A2A9C-47FA-4E01-A6D1-25AE0546DBCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,10 @@ Global
 		{4AA0782C-895B-425E-B480-E3FA5E4E936D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AA0782C-895B-425E-B480-E3FA5E4E936D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AA0782C-895B-425E-B480-E3FA5E4E936D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09A2A9C-47FA-4E01-A6D1-25AE0546DBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09A2A9C-47FA-4E01-A6D1-25AE0546DBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09A2A9C-47FA-4E01-A6D1-25AE0546DBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09A2A9C-47FA-4E01-A6D1-25AE0546DBCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,6 +167,7 @@ Global
 		{E314BCB2-2C3D-4D31-B276-48BC2DD9E653} = {274F9C53-DA50-4B66-8693-D5B5C0122492}
 		{CDF42588-EC8E-4A5C-92BB-999D3F74A440} = {274F9C53-DA50-4B66-8693-D5B5C0122492}
 		{4AA0782C-895B-425E-B480-E3FA5E4E936D} = {274F9C53-DA50-4B66-8693-D5B5C0122492}
+		{D09A2A9C-47FA-4E01-A6D1-25AE0546DBCD} = {DDF159CF-4EF9-48D0-8323-1C33D9C7D138}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DD05CC8E-425D-4675-A5B9-F5D5142405BB}
